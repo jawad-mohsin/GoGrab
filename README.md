@@ -3,13 +3,14 @@
 
 <div align="center">
 
-  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  &nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  &nbsp;![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  &nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  &nbsp;![Axios](https://img.shields.io/badge/Axios-008CDD?style=for-the-badge&logo=axios&logoColor=white)
+  [<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">](#)
+  &nbsp;[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">](#)
+  &nbsp;[<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">](#)
+  &nbsp;[<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">](#)
+  &nbsp;[<img src="https://img.shields.io/badge/Axios-008CDD?style=for-the-badge&logo=axios&logoColor=white">](#)
   
 </div>
+
 
 # GoGrab E-Commerce
 
@@ -171,7 +172,7 @@ SMTP_SERVICE=
 SMTP_HOST=
 SMTP_PORT=
 SMTP_USER=
-# SMTP_PASSWORD (keep this one secret)
+SMTP_PASSWORD= #keep this one secret
 ACCESS_TOKEN_SECRET=
 REFRESH_TOKEN_SECRET=
 ACCESS_TOKEN_EXPIRES_IN=
