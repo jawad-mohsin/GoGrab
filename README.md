@@ -183,7 +183,7 @@ ACCESS_TOKEN_EXPIRES_IN=
 
 The GoGrab E-Commerce web application features a user-friendly and intuitive interface designed to provide a seamless experience for buyers, sellers, and administrators. Follow the provided figma link to see the UI for the key components within the application:
 
-[Figma Design File](https://www.figma.com/file/TJbsmpxHf4yykEDo36stsK/Untitled?type=design&nodeid=100-292&mode=design&t=UCV224SeDjZFA5cW-0)
+[Figma Design File](https://www.figma.com/file/TJbsmpxHf4yykEDo36stsK/Untitled?type=design&node-id=100%3A292&mode=design&t=uPNkPyyNDGngRRnK-1)
 
 ---
 
